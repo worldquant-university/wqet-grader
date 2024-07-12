@@ -9,4 +9,5 @@ pandas
 scikit-learn
 category_encoders
 matplotlib
+numpy<2.0
 bson
